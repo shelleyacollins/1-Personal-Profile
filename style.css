@@ -1,5 +1,8 @@
 footer {
 height: 69px;
-background-color: darkgrey
-color: black
+background: darkgrey;
+color: black;
+}
+main{
+min-height: calc(100vh - 62px - 69px); 
 }
