@@ -1,15 +1,15 @@
 footer{
-height: 69px;
-background: black;
-color: whitesmoke;
+ height: 69px;
+ background: black;
+ color: whitesmoke;
 }
 
 footer span{
-opacity: .5;
+ opacity: .5;
 }
 
 main{
- min-height: calc(100vh - 62px - 69px);
+  min-height: calc(100vh - 62px - 69px);
 }
 
 body{
@@ -22,16 +22,16 @@ body{
 
 .navbar-brand{
   background-color: black;
-  font-size: 1.5em;
+  font-size: 2.5em;
   letter-spacing: 3px;
   padding-left: 5px;
   padding-right: 5px;
   }
 
 #brandlink{
- color:whitesmoke;
+  color:whitesmoke;
 }
 
 #contenttitle{
- color:black);
+  color:black;
 }
