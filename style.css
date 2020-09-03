@@ -1,22 +1,25 @@
-footer {
+footer{
 height: 69px;
 background: black;
 color: whitesmoke;
 }
+
 footer span{
-  opacity: .5;
-}
-main{
-min-height: calc(100vh - 62px - 69px);
+opacity: .5;
 }
 
-body {
+main{
+ min-height: calc(100vh - 62px - 69px);
+}
+
+body{
   background-image: url('Background.PNG');
 }
 
 .card-body p{
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+
 .navbar-brand{
   background-color: black;
   font-size: 1.5em;
@@ -28,6 +31,7 @@ body {
 #brandlink{
  color:whitesmoke;
 }
+
 #contenttitle{
-  color:black);
+ color:black);
 }
